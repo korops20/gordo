@@ -50,3 +50,4 @@ Bleeding edge:
 
 ## Uninstall:
 `pip uninstall gordo`
+
